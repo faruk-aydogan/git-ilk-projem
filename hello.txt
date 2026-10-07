@@ -1,2 +1,4 @@
 Merhaba Git 
+<<<<<<< HEAD
 Git ogreniyorum 
+Bu mesaj GitHub dan eklendi
